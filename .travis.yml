@@ -11,6 +11,6 @@ script:
 notifications:
   email:
     recipients:
-      - brian.downs@gmail.com
+      - vertigok@gmail.com
     on_success: change
     on_failure: always
