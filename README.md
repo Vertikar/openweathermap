@@ -1,8 +1,8 @@
 # OpenWeatherMap Go API
 
-[![GoDoc](https://godoc.org/github.com/briandowns/openweathermap?status.svg)](https://godoc.org/github.com/briandowns/openweathermap) [![Build Status](https://travis-ci.org/briandowns/openweathermap.svg?branch=master)](https://travis-ci.org/briandowns/openweathermap)
+[![GoDoc](https://godoc.org/github.com/vertikar/openweathermap?status.svg)](https://godoc.org/github.com/vertikar/openweathermap) [![Build Status](https://travis-ci.org/vertikar/openweathermap.svg?branch=master)](https://travis-ci.org/vertikar/openweathermap)
 
-Go (golang) package for use with openweathermap.org's API.
+Placeholder Go (golang) package for use with www.wunderground.com/s API.
 
 For more detail about the library and its features, reference your local godoc once installed.
 
