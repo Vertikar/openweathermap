@@ -1,6 +1,6 @@
 # Placeholder for WeatherUndergroud Go API
 
-[![GoDoc](https://godoc.org/github.com/vertikar/weatherunderground?status.svg)](https://godoc.org/github.com/vertikar/weatherunderground) [![Build Status](https://travis-ci.org/vertikar/weatherunderground.svg?branch=master)](https://travis-ci.org/vertikar/weatherunderground)
+[![GoDoc](https://godoc.org/github.com/Vertikar/weatherunderground?status.svg)](https://godoc.org/github.com/Vertikar/weatherunderground) [![Build Status](https://travis-ci.org/Vertikar/weatherunderground.svg?branch=master)](https://travis-ci.org/Vertikar/weatherunderground)
 
 Placeholder Go (golang) package for use with www.wunderground.com/s API.
 
